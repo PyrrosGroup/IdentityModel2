@@ -1,0 +1,3 @@
+[submodule "Shouldly.Extensions.Newtonsoft"]
+	path = Shouldly.Extensions.Newtonsoft
+	url = https://github.com/divinci/Shouldly.Extensions.Newtonsoft.git
